@@ -5,4 +5,4 @@ theme_version: 2.8.2
 cascade:
   featured_image: /images/gohugo-default-sample-hero-image.jpg
 ---
-Welcome to ananke where I have made major improvements
+Welcome to ananke where I have made major improvements - I am improvemnts
